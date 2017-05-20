@@ -1,0 +1,61 @@
+*{		margin:0;
+		padding:0}
+	
+body{	font-family:arial;
+		font-size: 16px;
+		line-height: 22px;
+		color: #666;
+		background:url(image/pattern.jpg) repeat fixed #ddd;}
+
+.main{	overflow:hidden;
+		width:960px;
+		margin:25px auto;
+		margin-bottom:0px;
+		display:block;
+		background:#fff;}
+		
+.header{overflow:hidden;
+		height:70px;
+		width:960px;
+		background:url(image/banner.jpg)no-repeat}
+		
+.header_text h2{ margin-top: 24px;
+				margin-left: 430px;
+				font-family: cursive;
+				color: black;}
+				
+.slider{overflow:hidden;
+		width:960px;
+		background:url(image/banner_2.jpg) no-repeat;}
+
+.maincontent{margin-top: 4px;}
+
+.menu{	overflow:hidden;
+		width:100px;
+		margin-right:20px;
+		background:#ededed;
+		float:left;
+		padding:10px;}
+		
+.menu ul{margin:0;
+		padding:0;
+		list-style:none;}
+		
+.menu ul li{padding:4px;
+		border-bottom:1px solid #ddd}
+		
+.menu ul li a{text-decoration:none;}
+
+.menu ul li a:hover{color:#aaa;}
+
+.about{overflow:hidden;width:820px;}
+
+.about p{}
+
+.footer{overflow: hidden;
+		display:block;
+		width:944px;
+		margin:auto;
+		background: #BBBBBB;
+		padding:8px;
+		}

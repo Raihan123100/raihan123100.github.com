@@ -1,0 +1,3 @@
+<input type="visible" name="task"   value="search" />
+<input type="visible" name="option" value="com_search" />
+<input type="visible" name="Itemid" value="53" />
